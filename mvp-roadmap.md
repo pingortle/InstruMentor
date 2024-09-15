@@ -15,7 +15,7 @@
    - [ ] Practice Session Model
 
 3. Update Routes:
-   - [ ] Add root route
+   - [x] Add root route
    - [ ] Add resources for instruments, goals, and practice sessions
    - [ ] Add route for progress
 
