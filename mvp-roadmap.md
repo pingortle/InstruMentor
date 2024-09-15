@@ -3,7 +3,7 @@
 ## Scaffolding Checklist
 
 1. Generate Controllers:
-   - [ ] Dashboard Controller
+   - [x] Dashboard Controller
    - [ ] Instruments Controller
    - [ ] Goals Controller
    - [ ] Practice Sessions Controller
